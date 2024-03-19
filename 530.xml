@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <!--Device tree-->
+  <project name="Android4Lumia530/android_vendor_nokia_rock" path="vendor/nokia/rock" revision="main" remote="github"/>
+  <project name="Android4Lumia530/linux" path="kernel/nokia/rock" revision="530" remote="github"/>
+  <project name="Android4Lumia530/android_device_nokia_rock" path="device/nokia/rock" revision="main" remote="github"/>
+</manifest>
