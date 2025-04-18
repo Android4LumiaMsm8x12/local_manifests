@@ -1,1 +1,1 @@
-# local_manifests
+# Lumia 435/530 Android sources
