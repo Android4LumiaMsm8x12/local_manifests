@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <!--Device tree-->
+  <!--Vendor tree-->
   <project name="Android4LumiaMsm8x12/android_vendor_nokia_rock" path="vendor/nokia/rock" revision="main" remote="github"/>
+  <!--Kernel source-->
   <project name="Android4LumiaMsm8x12/linux-next" path="kernel/nokia/rock" revision="msm8x12" remote="github"/>
+  <!--Device tree-->
   <project name="Android4LumiaMsm8x12/android_device_nokia_rock" path="device/nokia/rock" revision="main" remote="github"/>
 </manifest>
