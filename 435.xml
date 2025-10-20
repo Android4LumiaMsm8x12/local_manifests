@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
   <!--Vendor tree-->
-  <project name="Android4LumiaMsm8x12/android_vendor_nokia_rock" path="vendor/msft/vela" revision="main" remote="github"/>
+  <project name="Android4LumiaMsm8x12/android_vendor_msft_vela" path="vendor/msft/vela" revision="main" remote="github"/>
   <!--Kernel source-->
   <project name="Android4LumiaMsm8x12/linux-next" path="kernel/msft/vela" revision="msm8x12" remote="github"/>
   <!--Device tree-->
-  <project name="Android4LumiaMsm8x12/android_device_nokia_rock" path="device/msft/vela" revision="main" remote="github"/>
+  <project name="Android4LumiaMsm8x12/android_device_msft_vela" path="device/msft/vela" revision="main" remote="github"/>
 </manifest>
